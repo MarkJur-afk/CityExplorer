@@ -31,6 +31,36 @@
     <value>Remove</value>
   </data>
   <data name="SelectLanguage" xml:space="preserve">
-    <value>Select language</value>
+    <value>Select Language</value>
+  </data>
+  <data name="Attraction1_Name" xml:space="preserve">
+    <value>Old Town</value>
+  </data>
+  <data name="Attraction1_Desc" xml:space="preserve">
+    <value>Historic center of Tallinn</value>
+  </data>
+  <data name="Attraction2_Name" xml:space="preserve">
+    <value>Kadriorg</value>
+  </data>
+  <data name="Attraction2_Desc" xml:space="preserve">
+    <value>Magnificent park and palace</value>
+  </data>
+  <data name="Attraction3_Name" xml:space="preserve">
+    <value>Town Hall Square</value>
+  </data>
+  <data name="Attraction3_Desc" xml:space="preserve">
+    <value>Heart of the old town</value>
+  </data>
+  <data name="Attraction4_Name" xml:space="preserve">
+    <value>TV Tower</value>
+  </data>
+  <data name="Attraction4_Desc" xml:space="preserve">
+    <value>The tallest building in Estonia</value>
+  </data>
+  <data name="Attraction5_Name" xml:space="preserve">
+    <value>Seaplane Harbour</value>
+  </data>
+  <data name="Attraction5_Desc" xml:space="preserve">
+    <value>Maritime museum</value>
   </data>
 </root>

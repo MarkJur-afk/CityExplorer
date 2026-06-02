@@ -33,4 +33,34 @@
   <data name="SelectLanguage" xml:space="preserve">
     <value>Выберите язык</value>
   </data>
+  <data name="Attraction1_Name" xml:space="preserve">
+    <value>Старый город</value>
+  </data>
+  <data name="Attraction1_Desc" xml:space="preserve">
+    <value>Исторический центр Таллина</value>
+  </data>
+  <data name="Attraction2_Name" xml:space="preserve">
+    <value>Кадриорг</value>
+  </data>
+  <data name="Attraction2_Desc" xml:space="preserve">
+    <value>Великолепный парк и дворец</value>
+  </data>
+  <data name="Attraction3_Name" xml:space="preserve">
+    <value>Ратушная площадь</value>
+  </data>
+  <data name="Attraction3_Desc" xml:space="preserve">
+    <value>Сердце старого города</value>
+  </data>
+  <data name="Attraction4_Name" xml:space="preserve">
+    <value>Телебашня</value>
+  </data>
+  <data name="Attraction4_Desc" xml:space="preserve">
+    <value>Самое высокое здание Эстонии</value>
+  </data>
+  <data name="Attraction5_Name" xml:space="preserve">
+    <value>Летная гавань</value>
+  </data>
+  <data name="Attraction5_Desc" xml:space="preserve">
+    <value>Морской музей</value>
+  </data>
 </root>

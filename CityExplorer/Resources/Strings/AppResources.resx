@@ -33,4 +33,34 @@
   <data name="SelectLanguage" xml:space="preserve">
     <value>Vali keel</value>
   </data>
+  <data name="Attraction1_Name" xml:space="preserve">
+    <value>Vanalinn</value>
+  </data>
+  <data name="Attraction1_Desc" xml:space="preserve">
+    <value>Tallinna ajalooline keskus</value>
+  </data>
+  <data name="Attraction2_Name" xml:space="preserve">
+    <value>Kadriorg</value>
+  </data>
+  <data name="Attraction2_Desc" xml:space="preserve">
+    <value>Suurepärane park ja loss</value>
+  </data>
+  <data name="Attraction3_Name" xml:space="preserve">
+    <value>Raekoja plats</value>
+  </data>
+  <data name="Attraction3_Desc" xml:space="preserve">
+    <value>Vanalinna süda</value>
+  </data>
+  <data name="Attraction4_Name" xml:space="preserve">
+    <value>Teletorn</value>
+  </data>
+  <data name="Attraction4_Desc" xml:space="preserve">
+    <value>Eesti kõrgeim hoone</value>
+  </data>
+  <data name="Attraction5_Name" xml:space="preserve">
+    <value>Lennusadam</value>
+  </data>
+  <data name="Attraction5_Desc" xml:space="preserve">
+    <value>Meremuuseum</value>
+  </data>
 </root>

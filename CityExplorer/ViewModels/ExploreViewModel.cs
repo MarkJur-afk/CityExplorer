@@ -58,11 +58,11 @@ public class ExploreViewModel : BaseViewModel
 
     private void LoadData()
     {
-        AllAttractions.Add(new Attraction { Id = 1, Name = "Старый город", Description = "Исторический центр Таллина", Category = "🏰", ImageUrl = "old_town.jpg" });
-        AllAttractions.Add(new Attraction { Id = 2, Name = "Кадриорг", Description = "Великолепный парк и дворец", Category = "🌳", ImageUrl = "kadriorg.jpg" });
-        AllAttractions.Add(new Attraction { Id = 3, Name = "Ратушная площадь", Description = "Сердце старого города", Category = "🏰", ImageUrl = "town_hall.jpg" });
-        AllAttractions.Add(new Attraction { Id = 4, Name = "Телебашня", Description = "Самое высокое здание Эстонии", Category = "🗼", ImageUrl = "tv_tower.jpg" });
-        AllAttractions.Add(new Attraction { Id = 5, Name = "Летная гавань", Description = "Морской музей", Category = "🚢", ImageUrl = "seaplane_harbour.jpg" });
+        AllAttractions.Add(new Attraction { Id = 1, NameKey = "Attraction1_Name", DescriptionKey = "Attraction1_Desc", Category = "🏰", ImageUrl = "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/8977788c-5eb8-4fd0-88a6-b54c57e83257/" });
+        AllAttractions.Add(new Attraction { Id = 2, NameKey = "Attraction2_Name", DescriptionKey = "Attraction2_Desc", Category = "🌳", ImageUrl = "https://live.s3.teliahybridcloud.com/s3fs-public/styles/honorary_thumbnail_autoplay_gif/public/image_bank_foto/2022-06/275785.jpg?itok=Oip2ouLE" });
+        AllAttractions.Add(new Attraction { Id = 3, NameKey = "Attraction3_Name", DescriptionKey = "Attraction3_Desc", Category = "🏰", ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/1/18/Tallinna_Raekoda_11-06-2013.jpg" });
+        AllAttractions.Add(new Attraction { Id = 4, NameKey = "Attraction4_Name", DescriptionKey = "Attraction4_Desc", Category = "🗼", ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3YU27zP1jDs_Bg1lbFsV_J5WWOQHJPQriQ&s" });
+        AllAttractions.Add(new Attraction { Id = 5, NameKey = "Attraction5_Name", DescriptionKey = "Attraction5_Desc", Category = "🚢", ImageUrl = "https://pitbus.ru/wp-content/uploads/2019/06/letnyaya-gavan-1024x575.jpg" });
     }
 
     private void FilterAttractions()
